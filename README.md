@@ -1,6 +1,4 @@
-cd ~/genia-c21
-[ -f README.md ] && cp README.md README.md.bak
-cat > README.md <<'README_FIN'
+
 # genia-c21
 
 Assistant virtuel de **Century 21 Gold Key Realty** (Steinbach, MB) : réponses aux questions sur les logements, liste d'attente, signalement de problèmes, tableau de bord d'administration. Interface bilingue (EN / FR).
