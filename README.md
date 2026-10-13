@@ -31,7 +31,7 @@ Le serveur `svr-genia` (K3s) tourne comme VM dans un home-lab plus large, héber
 
 **Réseau** : double NAT derrière un modem Bell, liaison site-à-site OpenVPN entre `PC-DADDY` (serveur) et `DESKTOP-J7H10AF` (client) via OPNsense, pour unifier les deux hôtes Hyper-V sur un même réseau de gestion.
 
-> Capture d'écran de la topologie Hyper-V / VMs disponible dans `docs/screenshots/`.
+![Topologie Hyper-V](docs/screenshots/hyperv-topologie.png)
 
 ## Monitoring — détails
 
