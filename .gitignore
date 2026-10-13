@@ -7,3 +7,4 @@ reports.json
 waitlist.json
 uploads/
 *.deb
+*.bak
