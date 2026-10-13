@@ -1,0 +1,9 @@
+services:
+  genia-c21:
+    build: .
+    container_name: genia-c21
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    env_file:
+      - .env
